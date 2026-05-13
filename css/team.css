@@ -1,14 +1,16 @@
 
 .team{
    background-color: #f4f4fd;
+   padding: 120px 0;
 }
 .team-item{
       background-color: #FFFFFF;
       width: 264px;
       border-radius: 0px 0px 4px 4px; 
-      box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 
-                0px 1px 1px rgba(46, 47, 66, 0.16), 
-                0px 2px 1px rgba(46, 47, 66, 0.08);
+      box-shadow:
+        0px 1px 6px rgba(46, 47, 66, 0.08),
+        0px 1px 1px rgba(46, 47, 66, 0.16),
+        0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 .team-name{ 
    font-family: "Roboto", sans-serif;
@@ -54,7 +56,7 @@
 .section {
   padding: 120px 0;
 }
-.social-item{
+.social-items{
    height: 40px;
    width: 40px;
 }
@@ -77,7 +79,7 @@
 .social-icon{
    fill: #f4f4fd;
    /* width: 16px;
-   height: 16px; */
+   height: 16px;  */
 }
 
 .social-list {
@@ -86,4 +88,16 @@
   gap: 24px;      
   list-style: none;
   padding: 0;
+}
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
 }
