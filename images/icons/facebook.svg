@@ -1,0 +1,15 @@
+<svg viewBox="0 0 16 16" fill="none" width="32" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <style>
+        :root, .palette0 {color: currentColor;
+            --color0: #4d5ae5;
+            --color1: #2e2f42;
+            --color2: #f4f4fd;
+        }
+    </style>
+    <path fill="var(--color2, #f4f4fd)" d="M10.6647 2.6567l1.4606 0v-2.544C11.8733 0.078 11.0067 0 9.9973 0 7.8913 0 6.4487 1.3247 6.4487 3.7593l0 2.2407h-2.324l0 2.844h2.324l0 7.156H9.298V8.8447l2.23 0 0.354-2.844-2.5847 0 0-1.9594c7e-4-0.822 0.222-1.3846 1.3674-1.3846z" />
+    <defs>
+        <clipPath id="facebook2_clip0_1068768_64">
+            <rect fill="#fff" width="16" height="16" />
+        </clipPath>
+    </defs>
+</svg>
