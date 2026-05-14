@@ -3,7 +3,7 @@
     padding: 100px 0;
 }
 .footer-container {      
-    text-align: center;
+    /* text-align: center; */
     display: flex;
     align-items: baseline;
 }
@@ -42,7 +42,12 @@
     margin-bottom: 16px;
 }
 .footer-social-list {
-    gap: 16px;
+    
+  display: flex;
+  gap: 16px;
+  padding: 0;
+  list-style: none
+
 }
 .footer-social .social-link:hover,
 .footer-social .social-link:focus {
