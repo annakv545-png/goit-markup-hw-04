@@ -76,11 +76,16 @@
 .social-link:focus{
    background-color: #404bbf;
 }
-.social-icon{
+ .social-icon{
    fill: #f4f4fd;
    /* width: 16px;
-   height: 16px;  */
-}
+   height: 16px;*/  
+  
+  fill: #000; 
+
+} 
+
+
 
 .social-list {
   display: flex;
@@ -101,3 +106,4 @@
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
+
